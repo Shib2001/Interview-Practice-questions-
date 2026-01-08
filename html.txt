@@ -1,0 +1,22 @@
+1. What is Format of boiler plate in html ?
+2. Where Css and javascript is written and why there ?
+3. What is semantic tag ?
+4. What is difference between html and html5  , What are thing HTML5 offers ? 
+5. Make a Table in HTML and css align it center .
+6. What is difference between div and span ?
+7. What is difference between class and id ?
+8. What is difference between inline and block ?
+9. What are Tags and attributes in html 
+10. what is multipart in html 
+11. Define Html Layout structure 
+12. What are various Formatting tags 
+13. Make a simple Square Box and inside it a circle using CSS 
+14. Make a Header and align items in their center company name on the left corner and the other items on the right corner 
+15. Make a Footer and align items in their center company name on the left corner and the other items on the right corner 
+16. What is the significance of <head> and <body> tag in HTML?
+17. Is it possible to change an inline element into a block level element? How ?
+18.In how many ways you can display HTML elements?
+19. In how many ways can we specify the CSS styles for the HTML element?
+20. Difference between link tag <link> and anchor tag <a>?
+What are forms and how to create forms in HTML? Create One using Html and css 
+“Create a webpage layout using semantic HTML.”

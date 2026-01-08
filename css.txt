@@ -1,0 +1,27 @@
+1. types of posiiton in css ?
+2. What is the Box model in CSS? Which CSS properties are a part of it?
+3. What is em and rem and px ?
+4. What is the difference between margin and padding?
+5. Difference between flex and grid ?
+6.How is CSS different from CSS 3?
+7. Types of Selectors in CSS ?
+8. What are the different CSS border properties?
+9. What is the difference between border and outline?
+10. What are the different CSS box-sizing properties?
+11. What is the difference between relative and absolute positioning?
+12. How can we format text in CSS?
+13. How can we hide an element in CSS?
+14. how can we center an element in CSS?
+15. What is the difference between display: none and visibility: hidden?
+16. What is the difference between display: block and display: inline?
+17. What is the difference between display: flex and display: grid?
+18. Can we overlap elements in CSS?
+19. How can we center an image in CSS?
+20. What are CSS Combinators?
+21. What are pseudo-classes in CSS?
+22. what are pseudo-elements in CSS?
+23. What are CSS properties?
+24. How can we animate using CSS?
+26. What is CSS flexbox?
+27. What is !important?
+25. How can we make our website responsive using CSS? ( Practice it )
