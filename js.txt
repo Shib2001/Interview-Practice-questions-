@@ -38,10 +38,10 @@
 3. Call an api render it in the form of lists 
 4. Call an api render it in the form of cards 
 5. Reverse a String
+6. Reverse a number in array 
+7. Reverse a number
 6. Check Even or Odd
 7. arthimetic ( +, -, *, / ) by a specific number on each values of arrays 
 8. Find Largest Number in an Array
 9. Check Palindrome
 10. Find Frequency of Elements
-11. Sum of Array Using reduce
-12. 
