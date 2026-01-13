@@ -1,0 +1,41 @@
+1. Full form of php ?
+2. How to connect to Frontend using php ?
+3. How to connect to sql database using php ?
+4. Explain AJAX 
+5. Explain how the authentication works in php ?
+6. What is the difference between session_unset() and session_destroy()?
+7. Print a hellow world using php 
+8. make a counter using php 
+9. what is echo in php ?
+10. Is PHP a case-sensitive language? if yes then explain ?
+11. How does PHP handle form data?
+12. What is PEAR in PHP?
+13. What are session and cookies in php ?
+14. Differentiate between variables and constants in PHP
+15. Explain the difference between $message and $$message.
+16. What is the difference between ASP.NET and PHP?
+17. How to create a cookie in php ?
+18. What is the difference between the include() and require() functions?
+19.  What are traits?
+20. Explain the main types of errors.
+21. Explain the importance of Parser in PHP?
+22. What is the purpose of @ in PHP?
+23. What is the difference between a class and an interface?
+24. Explain the difference between a static and an instance method.
+25. What are the different types of Array in PHP?
+26. What are the different ways of handling the result set of MySQL in PHP?
+27. What is PDO in PHP?
+28. How does javascript interact with PHP ?
+29. What is the purpose of the break and continue statement?
+30. What is the use of the count() function in PHP?
+31. What are the different types of loops in PHP?
+32. What is the main difference between PHP 4 and PHP 5?
+33. What is inheritance in PHP ? Does php support multiple inheritance?
+34. What is the difference between the unset() and unlink() functions ?
+35. What are PHP streams?
+36. What is autoloading in PHP?
+37. How can you prevent Cross-Site Scripting (XSS) in PHP?
+38. What is the difference between crypt() and password_hash()?
+39. Explain the SOLID principles in PHP.
+40. How do you optimize PHP applications for performance?
+41. 
