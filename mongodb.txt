@@ -1,0 +1,15 @@
+1. What are documents and collections ?
+2. Explain Bson ? and How does mongodb store data ?
+3. What is Sharding, and How Does It Work in MongoDB?
+4. What is ACID properties in mongodb ?
+5. What is indexing in mongodb ?
+6. What is difference between map and reduce ?
+7. What is difference between cursor and aggregation ?
+8. What is Aggregation operations in mongodb ?
+9. What are TTL indexes in mongodb ?
+10. What is GridFS, and When is it Used in MongoDB?
+11. How to Handle Transactions in MongoDB?
+12. Explain the Concept of Geospatial Indexes in MongoDB.
+13. How to Handle Backups and Disaster Recovery in MongoDB?
+14. How to Optimize MongoDB Queries for Performance?
+15. How to Connect mongodb to Backend ?

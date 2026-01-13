@@ -30,6 +30,7 @@
 30. What are template literals and when do you use them?
 31. What are Timers ? (create a code )
 32. Strict mode in javascript what does it do explain 
+33. Event listeners
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,3 +46,4 @@
 8. Find Largest Number in an Array
 9. Check Palindrome
 10. Find Frequency of Elements
+11. Closures, var , let , const , hoisiting with examples 

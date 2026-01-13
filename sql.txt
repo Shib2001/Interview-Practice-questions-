@@ -1,1 +1,29 @@
-Write a statement to find duplicate rows In the MySQL table?
+1. How to create database and use it and the create table with constrainst in sql ?
+2. How to insert single and many  data in table ?
+3. How to update single and many  data in table ?
+4. How to delete single and many data in table ?
+5. How to select single and many data in table ?
+6. How to join tables in sql ?
+7. What are joins in sql ?
+8. What are aggregate functions in sql ?
+9. difference between having and where ? 
+10. ACID 
+11. What is normalization ?
+12. difference alter modify update , define them each ?
+13. difference between drop , truncate , delete ?
+14. What is indexing ?
+15. Explain Union , Union All ?
+16. Explain intersect and except ?
+17. What is heap table ?
+18. Primary Key and Foriegn Key with example ?
+19. What is view ? How to create a view ?
+20. What is Blob?
+21. What is Triggers in sql ?
+22. What is transaction in sql ?
+23. What is CTE  in sql ?
+24. What is stored procedure ?
+25. How to secure your sql database ?
+26. How to fast a slow sql query ?
+27. Explain anti‑joins
+28. Explain the difference between RANK(), DENSE_RANK() and ROW_NUMBER()
+
