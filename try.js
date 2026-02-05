@@ -1,0 +1,1 @@
+// find the frequency of elements in array 

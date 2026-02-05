@@ -1,0 +1,13 @@
+1. Explain Load balancer 
+2. How can you opitimise your database 
+3. How would you handle bot attack on your system 
+4. How would you rate limit the api calls 
+5. Ek saath multiple users ke data ko kaise handle kroge 
+6. What is cron job 
+7. How authentication works , ( session , cookies, jwt and everything related to it )
+8. difference between async and sync tasks 
+9. Hashing of passwords 
+10. How would you secure your database 
+11. What is Scaling in database , and how would you scale ?
+12. What is CI/CD pipeline 
+

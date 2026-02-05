@@ -1,0 +1,13 @@
+1. How to implement lazy loading tell the whole process 
+2. How would you debug your react code , explain some debugging method 
+3. Expalin debouncing and throtlling 
+4. Explain use effect , use ref , use memo , use callback , use reducer
+5. explain context api 
+6. explain zod 
+7. explain redux toolkit 
+8. explain why next is preffered over react js 
+9. what does latest version of react offer
+10. How virtual DOM works 
+11. difference between functional and class components 
+12. Define some types in typescript 
+13. 
