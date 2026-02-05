@@ -1,4 +1,6 @@
 1. Full form of php ?
+Hypertext Preprocessor.
+
 2. How to connect to Frontend using php ?
 3. How to connect to sql database using php ?
 4. Explain AJAX 
@@ -8,13 +10,13 @@
 8. make a counter using php 
 9. what is echo in php ?
 10. Is PHP a case-sensitive language? if yes then explain ?
-11. How does PHP handle form data?
+11. How does PHP handle form data? (write a code here)
 12. What is PEAR in PHP?
 13. What are session and cookies in php ?
 14. Differentiate between variables and constants in PHP
 15. Explain the difference between $message and $$message.
 16. What is the difference between ASP.NET and PHP?
-17. How to create a cookie in php ?
+17. How to create a cookie in php ? (code)
 18. What is the difference between the include() and require() functions?
 19.  What are traits?
 20. Explain the main types of errors.
