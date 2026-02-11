@@ -10,4 +10,7 @@
 10. How virtual DOM works 
 11. difference between functional and class components 
 12. Define some types in typescript 
-13. 
+13. Give detailed difference between usememo and useCallback 
+14. Difference between use navigation and link tag 
+15. How Pagination Works 
+16. 
