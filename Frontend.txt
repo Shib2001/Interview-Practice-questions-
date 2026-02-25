@@ -13,4 +13,9 @@
 13. Give detailed difference between usememo and useCallback 
 14. Difference between use navigation and link tag 
 15. How Pagination Works 
-16. 
+16. Explain How rest api works ? how to integrtae it with your react frontend ?
+17. what is statefulness in rest api ?
+18. what are http method ?
+19. difference between http and https ?
+20. differecne between ip and tcp ?
+21. 
