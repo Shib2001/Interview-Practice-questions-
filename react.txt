@@ -9,4 +9,3 @@
 9. what does latest version of react offer
 10. How virtual DOM works 
 11. difference between functional and class components ( M.P.)
-12. 
