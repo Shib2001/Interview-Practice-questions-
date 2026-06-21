@@ -20,3 +20,25 @@
 20. Difference between link tag <link> and anchor tag <a>?
 What are forms and how to create forms in HTML? Create One using Html and css 
 “Create a webpage layout using semantic HTML.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________________________________________________
+
+CODING WRITTEN QUESTIONS 
+
+
+1. Create a html file and write the code of a table 
